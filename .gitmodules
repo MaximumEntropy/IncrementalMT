@@ -1,0 +1,3 @@
+[submodule "SanDeepLearn"]
+	path = SanDeepLearn
+	url = https://github.com/MaximumEntropy/SanDeepLearn.git
